@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -o \"\\\\$\\('[a-zA-Z]*'\\)\" app.js)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
